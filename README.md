@@ -1,5 +1,5 @@
-# musically
-a music discord bot
+# Discord Music Bot
+A discord music bot
 
 install requirements using 
 ```
